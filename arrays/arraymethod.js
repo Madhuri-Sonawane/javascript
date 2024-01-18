@@ -76,4 +76,9 @@ let num=[1,2,5,4,89,56,41];
 
  console.log(num.splice(4,1,));
 
+ //map method
+ console.log("map method:");
+
+ 
+
  

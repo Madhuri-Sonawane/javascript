@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(76, 105, 95);
+    display: flex;
+    height: auto;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: auto;
+    padding-top: 30px;
+}
+
+div{
+    background-color: rgb(158, 117, 197);
+    
+}
+
+h5{
+    font-size: larger;
+    background-color: rgb(137, 137, 198);
+}
