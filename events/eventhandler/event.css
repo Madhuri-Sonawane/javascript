@@ -1,0 +1,26 @@
+button{
+    background-color: blueviolet;
+    color: white;
+    height: 60px;
+    width: 160px;
+    border-radius: 10px;
+    
+    font-size: larger;
+    font-weight: bold;
+    margin-top: 10px;
+}
+body{
+    height: 100%;
+    width: 100%;
+    margin-left: 100px;
+   padding-left: 100px;
+}
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+   justify-content: center;
+   align-items: center;
+   margin-top: 100px;
+
+}
